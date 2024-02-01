@@ -23,9 +23,6 @@ biblioteka = [{
 }]
 
 
-for k, v in biblioteka.items():
-    print(f"{k}: {v}")
-
 
 
 
