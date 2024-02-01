@@ -32,11 +32,9 @@ def edycja():
         else:
             print("Nie ma takiej komendy!")
 
-# Wywołanie funkcji do wyświetlenia danych
+
 wyswietlenie_danych()
 
-# Wywołanie funkcji do edycji danych
 edycja()
 
-# Wywołanie funkcji do ponownego wyświetlenia danych po edycji
 wyswietlenie_danych()
